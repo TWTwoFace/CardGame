@@ -1,0 +1,12 @@
+E:\CardTurnBased\Server\GameEntities\bin\Debug\net6.0\GameEntities.deps.json
+E:\CardTurnBased\Server\GameEntities\bin\Debug\net6.0\GameEntities.dll
+E:\CardTurnBased\Server\GameEntities\bin\Debug\net6.0\GameEntities.pdb
+E:\CardTurnBased\Server\GameEntities\obj\Debug\net6.0\GameEntities.csproj.AssemblyReference.cache
+E:\CardTurnBased\Server\GameEntities\obj\Debug\net6.0\GameEntities.GeneratedMSBuildEditorConfig.editorconfig
+E:\CardTurnBased\Server\GameEntities\obj\Debug\net6.0\GameEntities.AssemblyInfoInputs.cache
+E:\CardTurnBased\Server\GameEntities\obj\Debug\net6.0\GameEntities.AssemblyInfo.cs
+E:\CardTurnBased\Server\GameEntities\obj\Debug\net6.0\GameEntities.csproj.CoreCompileInputs.cache
+E:\CardTurnBased\Server\GameEntities\obj\Debug\net6.0\GameEntities.dll
+E:\CardTurnBased\Server\GameEntities\obj\Debug\net6.0\refint\GameEntities.dll
+E:\CardTurnBased\Server\GameEntities\obj\Debug\net6.0\GameEntities.pdb
+E:\CardTurnBased\Server\GameEntities\obj\Debug\net6.0\ref\GameEntities.dll

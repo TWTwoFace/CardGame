@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sRBYV1ACBB7i9SMydRxZPgH7Wx5uUMvB33NBmRYauSI=",
+  "Source": "CardGameServer",
+  "BasePath": "_content/CardGameServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
